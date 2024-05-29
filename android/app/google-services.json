@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1085029130268",
+    "project_id": "relewallet",
+    "storage_bucket": "relewallet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1085029130268:android:72c932676fddef93987fd9",
+        "android_client_info": {
+          "package_name": "com.relewalletcom.newrelewallet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1085029130268-jsv8niist7b6cjv7skddphsdgnen4mjb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.relewalletcom.newrelewallet",
+            "certificate_hash": "24981beebc11f7946b9ab3c6d26d2c3ba2814c7c"
+          }
+        },
+        {
+          "client_id": "1085029130268-lpkrtgdnl8leqd9ar2nod8ep4pt150v0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKb5rrJzOGS5Bwt8ajp3i9vPecP21pHZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1085029130268-484rjlqnuignuvmpar2l0udfq2bosebg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1085029130268-7fimgr6kb4ddoecnalrtqsbap7vgk8lp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.relewallet.relewallet"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

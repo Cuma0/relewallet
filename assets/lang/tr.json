@@ -1,0 +1,128 @@
+{
+    "cards_page": {
+        "cards": "Kartlar",
+        "stories": "Hikayeler",
+        "my_cards": "Kartlarım",
+        "no_loyalty_card_yet": "Henüz sadakat kartınız yok. Hemen oluştur!",
+        "add_card": {
+            "okay": "Tamam",
+            "please_login_before": "Lütfen sadakat kartı eklemeden önce giriş yapınız.",
+            "add_card": "Kart ekle",
+            "search": "Ara",
+            "other_cards": "Diğer kartlar",
+            "many_times": "Sık kullanılanlar",
+            "save": "Kaydet",
+            "enter_number_printed": "Lütfen kartınızdaki numarayı girin",
+            "card_number": "Kart Numarası",
+            "scan_page": {
+                "scan": "Tara",
+                "scan_your_cards_barcode": "Kartınızın barkodunu okutunuz",
+                "scan_bardcode": "BARCODE TARA",
+                "manually_enter": "MANUEL GİR",
+                "add_from_gallery": "GALERİDEN EKLE",
+                "too_dark": "Çok karanlık görünüyor, lütfen manuel ekleyiniz."
+            },
+            "created_page": {
+                "new_loyalty_card": "Yeni sadakat kartı",
+                "created_loyalty_card": "Sadakat kartınız oluşturuldu.",
+                "add_new_card": "Yeni kart ekle",
+                "go_back_cards": "Kartlarıma dön"
+            }
+        },
+        "my_card_info": {
+            "loyalty_card": "Sadakat Kartı",
+            "cancel": "İptal",
+            "update": "Güncelle",
+            "share": "Paylaş",
+            "share_value": "Merhaba! Sadakat kartımı sizinle paylaşmak istiyorum: ",
+            "card_no": "Kart No: ",
+            "delete": "Sil",
+            "are_you_sure_delete": "Sadakat kartınızı silmek istediğinize emin misiniz?",
+            "yes": "Evet",
+            "no": "Hayır",
+            "card_updated_successfully": "Sadakat kartı güncellendi!",
+            "creation_date": "Eklenme tarihi: "
+        }
+    },
+    "offers_page": {
+        "offers": "Teklifler",
+        "for_you": "Senin için",
+        "validity_period": "Geçerlilik süresi: ",
+        "no_offer_yet": "Şu an sizin için herhangi bir teklifimiz yok. Daha sonra tekrar kontrol edin!"
+    },
+    "account_page": {
+        "account": "Hesap",
+        "share": {
+            "share": "Paylaş",
+            "share_with_friends": "Arkadaşlarınla paylaş"
+        },
+        "sign_up_page": {
+            "no_account": "Hesap yok",
+            "never_lose_cards": "Kartlarını asla kaybetme",
+            "sign_in_google": "Google ile giriş yap",
+            "sign_in_apple": "Apple ile giriş yap",
+            "log_in": "Giriş yap",
+            "have_account": "Zaten bir hesabınız var mı?"
+        },
+        "my_account": {
+            "my_account": "Hesabım",
+            "login_google": "Google ile giriş",
+            "login_apple": "Apple ile giriş",
+            "manage_account": "Hesabını Yönet",
+            "settings": {
+                "settings": "Ayarlar",
+                "card_assistant": "Kart asistanı",
+                "advanced_settings": "Gelişmiş ayarlar",
+                "language": {
+                    "languages": "Diller",
+                    "change_language": "Dil Değiştir",
+                    "are_you_sure": "Emin misiniz?",
+                    "yes": "Evet",
+                    "no": "Hayır",
+                    "language_settings": "Dil ayarlanıyor..."
+                }
+            },
+            "support": {
+                "help": "Yardım",
+                "support": "Destek"
+            }
+        },
+        "sign_up_with_email_page": {
+            "sign_up_with_email": "Email ile kaydolun",
+            "email": "Email",
+            "enter_valid_email": "Lütfen geçerli bir email giriniz.",
+            "email_exists": "Bu email kullanılıyor!",
+            "email_required": "Email boş bırakılamaz.",
+            "password": "Şifre",
+            "password_again": "Şifre, tekrar",
+            "password_not_match": "Şifreleriniz eşleşmiyor. Lütfen tekrar deneyin.",
+            "password_required": "Şifre boş bırakılamaz.",
+            "at_least_6_characters": "Lütfen, en az 6 haneli bir şifre belirleyin.",
+            "sign_up": "Kayıt ol",
+            "already_have_account": "Zaten bir hesabınız var mı?"
+        },
+        "sign_in_with_email_page": {
+            "email": "Email",
+            "email_required": "Email boş bırakılamaz.",
+            "enter_valid_email": "Lütfen geçerli bir email giriniz.",
+            "password": "Şifre",
+            "password_required": "Şifre boş bırakılamaz.",
+            "sign_in": "Giriş yap",
+            "no_account_signup": "Bir hesabınız yok mu?",
+            "incorrect_email_or_password": "Email veya parola hatalı."
+        }
+    },
+    "settings_page": {
+        "share_text": "Telefonunuzu cüzdanınıza dönüştürün ve Relewallet ile alışveriş deneyiminizi yükseltin. ",
+        "sort_by_name": "İsme göre sırala",
+        "sort_by_date": "Tarihe göre sırala",
+        "notifications": "Bildirimler",
+        "app_security": "Face ID & Şifre",
+        "delete_account_content": {
+            "delete_account": "Hesabı Sil",
+            "delete_account_subtitle": "Hesabınızı silerseniz, daha sonra yeniden etkinleştiremezsiniz. Tüm verileriniz kalıcı olarak silinecektir.",
+            "delete": "Sil",
+            "cancel": "İptal"
+        }
+    }
+}
